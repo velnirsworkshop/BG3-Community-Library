@@ -1,0 +1,28 @@
+Globals.ClassTags = {
+    -- Pala Vengeance a1aa47b2-4d0a-4c97-931b-2c53353d5b23
+    -- Lock Archfey 86de94fa-91a2-4abb-8601-f2ad96c70659
+    -- Wiz necro 90d7fbd5-1264-4bd6-93ba-67c2116e6ab0
+    -- Ranger gloom c023a2ef-b042-443b-b402-b1326f4b49f3
+    -- class Barb 02913f9a-f696-40cf-acdf-32032afab32c
+    -- Barb berseker ac3449f7-c09b-4bc0-8634-fcff97d49279
+    -- class bard d93434bd-6b71-4789-b128-ee24156057cc
+    -- class cleric 1671b4bf-4f47-4bb7-9cb9-80bb1f6009d5
+    -- class druid 44ac4317-4d38-4d28-80e2-94024c6e42f0
+    -- class fighter 1ae7017c-4884-4a43-bc4a-742fa0d201c0
+    -- class monk e1e460bb-d0ae-4452-8529-c9e176558731
+    -- class paladin 6d85ab2d-5c23-498c-a61e-98f05a00177a
+    -- pala ancients 7c89622b-4194-41df-b2ff-145a5056ee49
+    -- pala devotion 2de0a4fc-5831-4439-94d3-a7ff9b7aacf6
+    -- pala oathbreaker c7bdcdf2-15e7-456e-adf1-21dda3172e18
+    -- class ranger 37a733c1-a862-4157-b92a-9cff46232c6a
+    -- ranger beast master bfaccaca-e512-43ea-89cc-372b5d1925ee
+    -- ranger hunter 5727fd64-090f-4932-a31c-c0e078b2146a
+    -- class rogue f8a0608b-666c-4be6-a49c-03b369c10bd2
+    -- class sorcerer 18266c0b-efbc-4c80-8784-ada4a37218d7
+    -- sorcerer dragonic f6d0e042-5b90-41d8-ab4a-a2239e27a13e
+    -- sorcere wild 885f8675-e400-4d53-924d-6204ff1d9558
+    -- class warlock 5804f55a-93f7-4281-9512-8d548a9e2a22
+    -- warlock fiend fbe3ee5d-1bb8-4c0b-a18c-26386101a680
+    -- warlock goo cdad1fc1-352b-4441-82f2-73d8433e42ea
+    -- class wizard 6fe3ae27-dc6c-4fc9-9245-710c790c396c
+}
